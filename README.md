@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/759h.gif" width="200"/>
+  <img src="https://i.gifer.com/F89e.gif" width="200"/>
 </div>
 <div id="badges">
   <a href="www.linkedin.com/in/1hilalusta">
