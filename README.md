@@ -13,6 +13,7 @@ Hello! 👋 I'm Hilal, a passionate engineer with a forward-looking and wide-ran
 🚀 In the world of machine learning and deep learning, I've honed my skills with Python. I've successfully executed various machine learning and deep learning projects, and I'm not afraid to explore new horizons.
 
 💡 Proficient in Java and Python, I specialize in developing projects that leverage the power of these languages. Whether it's crafting solutions with Java or unleashing the capabilities of Python libraries for artificial intelligence projects, I'm up for the challenge.
+
 ---
 
 📫 Let's Connect:
