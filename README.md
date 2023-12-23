@@ -17,8 +17,8 @@ I'm Hilal, a passionate engineer with a forward-looking and wide-ranging goal in
 
 ---
 
-📫 Let's Connect:
+### 📫 Let's Connect:
 
 Email: 1hilalusta@gmail.com
 
-Looking forward to collaborating and building something great together! 🚀
+**Looking forward to collaborating and building something great together!** 🚀
