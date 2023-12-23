@@ -22,3 +22,10 @@ I'm Hilal, a passionate engineer with a forward-looking and wide-ranging goal in
 Email: 1hilalusta@gmail.com
 
 **Looking forward to collaborating and building something great together!** 🚀
+
+### :hammer_and_wrench: 🐍 **Languages and Tools:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  
