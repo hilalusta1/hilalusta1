@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/hilalusta1/hilalusta1/blob/main/a.gif" width="200"/>
+  <img src="https://i.gifer.com/759h.gif" width="200"/>
 </div>
 <div id="badges">
   <a href="www.linkedin.com/in/1hilalusta">
