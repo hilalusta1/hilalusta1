@@ -1,5 +1,7 @@
 ### Hi there 👋
- <img src="https://github.com/hilalusta1/hilalusta1/blob/main/a.gif" style="display: block; margin: auto; width: 250px; height: 300px; border: 10px solid white;">
+
+<img src="https://github.com/hilalusta1/hilalusta1/blob/main/a.gif" style="display: block; margin: auto;">
+
 
 
 <!--
