@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://github.com/hilalusta1/hilalusta1/blob/main/a.gif" width="28" height="28">
+ <img src="https://github.com/hilalusta1/hilalusta1/blob/main/a.gif" width="50" height="50">
 
 <!--
 **hilalusta1/hilalusta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
