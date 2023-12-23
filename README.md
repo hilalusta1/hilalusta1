@@ -8,13 +8,12 @@
 
 ---
 ### 👩‍💻 About Me:
-Hello! 👋 I'm Hilal, a passionate engineer with a forward-looking and wide-ranging goal in the realm of technology. My ambition is to become a successful engineer, and to achieve this, I am focused on mastering the intricacies of my profession.
+Hello! 👋 
+I'm Hilal, a passionate engineer with a forward-looking and wide-ranging goal in the realm of technology. My ambition is to become a successful engineer, and to achieve this, I am focused on mastering the intricacies of my profession.
 
-### Machine Learning and Deep Learning Expertise:
-🚀 In the world of machine learning and deep learning, I've honed my skills with Python. I've successfully executed various machine learning and deep learning projects, and I'm not afraid to explore new horizons.
+🚀 In the world of **machine learning** and **deep learning**, I've honed my skills with Python. I've successfully executed various machine learning and deep learning projects, and I'm not afraid to explore new horizons.
 
-### Programming Proficiency:
-💡 Proficient in Java and Python, I specialize in developing projects that leverage the power of these languages. Whether it's crafting solutions with Java or unleashing the capabilities of Python libraries for artificial intelligence projects, I'm up for the challenge.
+💡 Proficient in **Java** and **Python**, I specialize in developing projects that leverage the power of these languages. Whether it's crafting solutions with Java or unleashing the capabilities of **Python libraries** for **artificial intelligence projects**, I'm up for the challenge.
 
 ---
 
